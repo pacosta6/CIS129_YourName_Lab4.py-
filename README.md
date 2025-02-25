@@ -1,4 +1,4 @@
-# CIS129_YourName_Lab4.py-
+# CIS129_Paul_Acosta_Lab4.py-
 Bonus Sales Calculation
 Sales Amount
 It covers sales Amount sales Increase 
